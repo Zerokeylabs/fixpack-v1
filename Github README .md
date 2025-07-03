@@ -18,14 +18,12 @@ I’ve built a full `.zip` Fix Pack including:
 - 📄 PDF client-style audit report
 - 🔐 Bonus tools like SHA256 GUI & secret generator
 
-👉 [Get it here on Gumroad](https://your-link-here.com)
+👉 [Get it here on Gumroad](https://9972755030944.gumroad.com/l/qnrjep)
 
 ---
 
-## 📎 Screenshot Preview
-
-![Fix Preview](C:\xampp\htdocs\fixpack-v1\idor\idor_user_result.png)
+## 📎 Screenshots
 
 ---
 
-Built by [Ashish](https://github.com/yourusername) – freelance-ready security kits.
+Built by [Ashish](https://github.com/Zerokeylabs) – freelance-ready security kits.
