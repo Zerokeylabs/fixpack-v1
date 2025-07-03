@@ -1,0 +1,3 @@
+Name: Root Admin
+Email: admin@zerokeylabs.local
+Role: Admin
