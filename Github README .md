@@ -13,10 +13,18 @@ Each folder includes:
 
 ## 🎁 Want Full Fixes + Client Report + Bonus Tools?
 
-I’ve built a full `.zip` Fix Pack including:
-- ✅ Safe versions of each vulnerability
-- 📄 PDF client-style audit report
-- 🔐 Bonus tools like SHA256 GUI & secret generator
+Secure, client-ready .zip with:
+
+✅ Fixed OWASP bugs (XSS, SQLi, IDOR)
+
+📄 PDF-style client audit report
+
+🛠 SHA256 GUI tool + secrets generator
+
+
+👉 Download Full Pack on Gumroad – Just $5
+
+> 💡 You can test vulnerable files below first.
 
 👉 [Get it here on Gumroad](https://9972755030944.gumroad.com/l/qnrjep)
 
