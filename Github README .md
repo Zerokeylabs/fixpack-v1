@@ -17,20 +17,27 @@ Secure, client-ready .zip with:
 
 ✅ Fixed OWASP bugs (XSS, SQLi, IDOR)
 
-📄 PDF-style client audit report
+Bonus Tools (In Gumroad Fix Pack Only)
 
-🛠 SHA256 GUI tool + secrets generator
+sha256_salt_demo.php – demo of salted SHA256 password hashing
+
+sha256_gui.exe + .py – hash any file with one click
+
+secrets_generator.py – generate strong API keys, tokens, passwords
+
+
+⚠ These are included only in the full .zip version for learners, freelancers, and bug bounty demo kits.
 
 
 👉 Download Full Pack on Gumroad – Just $5
 
-> 💡 You can test vulnerable files below first.
-
 👉 [Get it here on Gumroad](https://9972755030944.gumroad.com/l/qnrjep)
+
+-> You can test vulnerable files below first.
 
 ---
 
-## 📎 Screenshots
+## 📎 Screenshots available
 
 ---
 
